@@ -121,7 +121,7 @@
 Проверяет, является ли `obj` буфером.
 
 
-### Class Method: Buffer.byteLength(string, [encoding])
+### Метод класса: Buffer.byteLength(string, [encoding])
 
 * `string` String
 * `encoding` String, необязательный параметр, по умолчанию: 'utf8'
